@@ -1,3 +1,5 @@
+## set of functions creating the inverse of a matrix and storing its cache
+##
 ## makeCacheMatrix is a function which
 ## takes matrix as an argument, and
 ## creates a set of functions which
